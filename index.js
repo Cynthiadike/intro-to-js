@@ -1,1 +1,1 @@
-console.log("Name: Cynthia Dike \nHeight: 5ft9\nCountry: Nigeria")
+alert(`Name: Cynthia Dike \nHeight: 5ft9\nCountry: Nigeria`);
